@@ -1,0 +1,6 @@
+F:\Project\BootStrap\BootStrap\bin\BootStrap.dll.config
+F:\Project\BootStrap\BootStrap\bin\BootStrap.dll
+F:\Project\BootStrap\BootStrap\bin\BootStrap.pdb
+F:\Project\BootStrap\BootStrap\obj\Debug\BootStrap.csprojResolveAssemblyReference.cache
+F:\Project\BootStrap\BootStrap\obj\Debug\BootStrap.dll
+F:\Project\BootStrap\BootStrap\obj\Debug\BootStrap.pdb
